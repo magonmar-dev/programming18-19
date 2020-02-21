@@ -1,0 +1,50 @@
+#1. Which was the first spanish team to play the final of the UEFA Women's Champions League?
+a) Futbol Club Barcelona
+b) Club Atletico de Madrid
+c) Athletic Club de Bilbao
+sol a
+#2. How many medals did Spain win at the Barcelona 92 Olympics?
+a) 19
+b) 22
+c) 25
+sol b
+#3. What are the five colours of the Olympic rings?
+a) Red, yellow, green, blue, black
+b) White, yellow, blue, black, red
+c) Green, yellow, purple, black, blue
+sol a
+#4. When was the first Soccer World Cup?
+a) 1930
+b) 1880
+c) 1950
+sol a
+#5. Who is considered the best basketball player of all time?
+a) Shaquille O'Neal
+b) Magic Johnson
+c) Michael Jordan
+sol c
+#6. Which athlete has the speed record in the 100 meters?
+a) Carl Lewis
+b) Usain Bolt
+c) Jesse Owens
+sol b
+#7. Which football team has won the most World Cups?
+a) Brazil
+b) Argentina
+c) Germany
+sol a
+#8. How many squares are there on a chess board?
+a) 68
+b) 50
+c) 64
+sol a
+#9. What is the oldest football stadium in Spain?
+a) El Molinon (Real Sporting de Gijón)
+b) San Mames (Athletic Club)
+c) El Madrigal (Villareal Club de Fútbol)
+sol a
+#10. What sport played with a bat and a ball is the most popular in India?
+a) Baseball
+b) Cricket
+c) Golf
+sol b

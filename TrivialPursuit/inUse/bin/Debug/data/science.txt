@@ -1,0 +1,50 @@
+#1. How many colours are there in a rainbow?
+a) 7
+b) 8
+c) 5
+sol a
+#2. Who invented the electric light bulb? 
+a) Nikola Tesla
+b) Thomas Alva Edison
+c) Alexander Graham Bell
+sol b
+#3. Who invented the telephone?
+a) Alexander Graham Bell
+b) Thomas Alva Edison
+c) Nikola Tesla
+sol a
+#4. What temperature does water boil at?
+a) 190 Celsius degrees
+b) -100 Celsius degrees
+c) 100 Celsius degrees
+sol c
+#5. Where is the smallest bone in the body?
+a) Nose
+b) Ear
+c) Toes
+sol b
+#6. Who discovered radioactivity?
+a) Louis Pasteur
+b) Dmitri Mendeleyev
+c) Marie Curie
+sol c
+#7. What's the hardest mineral?
+a) Diamond
+b) Corundum
+c) Quartz
+sol a
+#8. Which planet is nearest the sun?
+a) Venus
+b) Mercury
+c) Mars
+sol b
+#9. What species of amphibian is known for its incredible ability to regenerate parts of its body?
+a) Salamander
+b) Frog
+c) Axolotl
+sol c
+#10. Around what planet are the satellites Ganymede, Callisto, Io and Europe?
+a) Jupiter
+b) Saturn
+c) Neptune
+sol a

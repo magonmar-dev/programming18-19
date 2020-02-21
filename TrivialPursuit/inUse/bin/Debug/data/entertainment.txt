@@ -1,0 +1,50 @@
+#1. Who sang "My Way"?
+a) Frank Sinatra
+b) Ella Fitzgerald
+c) Dean Martin
+sol a
+#2. What year did Michael Jackson die?
+a) 2011
+b) 2009
+c) 2000
+sol b
+#3. Who were the two main actors in "Pretty Woman"?
+a) Kate Winslet and Leonardo DiCaprio
+b) Rachel McAdams and Ryan Gosling
+c) Julia Roberts and Richard Gere
+sol c
+#4. What was the house of Bellatrix Lestrange when she studied at Howgarts?
+a) Slytherin
+b) Hufflepuff
+c) Ravenclaw
+sol a
+#5. The Avengers were formed to fight against the brother of ...
+a) Loki
+b) Thor
+c) Thanos
+sol b
+#6. Which actress has won the most Oscars?
+a) Daniel Day-Lewis
+b) Meryl Streep
+c) Katharine Hepburn
+sol c
+#7. The friends of what series meet every day in a bar called Central Perk?
+a) Friends
+b) Sex and the City
+c) How I Met Your Mother
+sol a
+#8. What famous comedian imitated Hitler in the movie "The Great Dictator"?
+a) Jack Oakie
+b) Charles Chaplin
+c) Aleksandr Antónov
+sol b
+#9. Who composed the Swan Lake?
+a) Stravinski
+b) Rimski-Korsakov
+c) Tchaikovsky
+sol a
+#10. Who composed the most famous wedding march?
+a) Franz Liszt
+b) Richard Wagner
+c) Felix Mendelssohn
+sol c

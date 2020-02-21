@@ -1,0 +1,50 @@
+#1. What's the largest river in the world?
+a) Nile
+b) Amazon
+c) Mississippi
+sol b
+#2. What's the most spoken language in the world?
+a) Chinese
+b) Spanish
+c) English
+sol a
+#3. What's the imaginary vertical line which divides the world into two halves?
+a) Ecuador
+b) Parallel
+c) Greenwich Meridian
+sol c
+#4. What's the capital of Kenya?
+a) Nairobi
+b) Gaborone
+c) Rabat
+sol a
+#5. What's the smallest country in the world?
+a) Liechtenstein
+b) Monaco
+c) Vatican City
+sol c
+#6. How many avenues radiate from the Arc de Triomphe in Paris?
+a) 12
+b) 3
+c) 8
+sol a
+#7. How many states are there in the United States of America?
+a) 55
+b) 50
+c) 40
+sol b
+#8. What is 15 metres high, 8 metres wide and 240 kilometers long?
+a) Amazon river
+b) Andes mountains
+c) Great Wall of China
+sol c
+#9. Where are the Luxembourg Gardens?
+a) Paris
+b) Luxembourg
+c) Brussels
+sol a
+#10. Which German city is famous for the perfume it produces?
+a) Hamburg
+b) Cologne
+c) Essen
+sol b
